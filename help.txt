@@ -1,0 +1,8 @@
+USER [Username] - Specify user for authentication
+PASS [Password] - Specify password for authentication
+QUIT - Disconnection
+PORT [Port] - Enable "active" mode for data transfer
+PASV - Enable "passive" mode for data transfer
+PWD - Print working directory
+HELP - List available commands (here you are !)
+NOOP - Do nothing (why ?)
